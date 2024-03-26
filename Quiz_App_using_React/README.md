@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ### Screenshots
 
-
-
+![plot] (https://github.com/shairaiali9/VAC_Assignments/blob/main/Quiz_App_using_React/public/QuizForm.png)
+![plot] (https://github.com/shairaiali9/VAC_Assignments/blob/main/Quiz_App_using_React/public/QuizFormAns.png)
 
 ### `npm start`
 
